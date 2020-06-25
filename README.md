@@ -4,6 +4,7 @@
 2. cd tokopedia_scrap
 3. python3 main.py
 4. Masukkan username di belakang url ex: xiaomi
+
 Nama Toko : https://tokopedia.com/xiaomi
    
    
