@@ -7,9 +7,10 @@
 
 Nama Toko : https://tokopedia.com/xiaomi
    
-[![Visits Badge](https://badges.pufler.dev/visits/RTechnoS/tokopedia_scrap?style=for-the-badge&color=blue)](https://github.com/RTechnoS/RTechnoS)
    
 # Copyright © 2020 Rusman TS
 Instagram : @rusman_toby
 
 Email : rusmants.public@pm.me
+
+[![Visits Badge](https://badges.pufler.dev/visits/RTechnoS/tokopedia_scrap?style=for-the-badge&color=blue)](https://github.com/RTechnoS/RTechnoS)
